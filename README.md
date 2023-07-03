@@ -5,11 +5,11 @@ This project conducted a statistical analysis, utilizing chi-squared testing, to
 1. Earnings Disparity: 
 
       The analysis focused on women with job titles of data scientist and research scientist, as well as women with master's and doctoral degrees. The objective was to uncover any disparities in earnings   
-      between women and men in these roles.
+      between women and men in these roles, in Portugal.
 
 3. Age Distribution: 
 
       The analysis explored differences in the age distribution between men and women in the tech industry. By examining their age profiles, the project aimed to identify any variations and potential 
-      implications related to age-based disparities.
+      implications related to age-based disparities worldwide.
 
 This project provided insights into gender disparities in earnings and age distribution within the tech industry. The findings contributed to a better understanding of the challenges faced by women in the industry.
